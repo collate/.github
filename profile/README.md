@@ -1,6 +1,5 @@
-# Collate
+![Empowering life science development](profile/img/banner.png)
 
-Empowering life sciences development
 
 ## Links
 
