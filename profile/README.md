@@ -1,4 +1,4 @@
-![Empowering life science development](profile/img/banner.png)
+![Empowering life science development](img/banner.png)
 
 
 ## Links
